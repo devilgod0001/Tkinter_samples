@@ -304,7 +304,7 @@ page = Canvas(cry,width = 1700,height = 1000)
 page.pack(expand = True,fill = BOTH)
 
 
-photo = PhotoImage(file = "C:\\Users\\sahil computer\\Pictures\\dragon.png")
+photo = PhotoImage(file = "kd1.png")
 page.create_image(0,0,image=photo,anchor = NW)
 
 
